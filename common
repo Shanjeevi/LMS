@@ -1,0 +1,4 @@
+<?php
+$projectName="Library Management System";
+$projectTitleName="LMS";
+?>
